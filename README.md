@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frontFaridun
+- 👋 Hi, I’m Faridun
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on js devs.
