@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title> CSS </title>
+         <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <section>
+            <h2>Salom</h2>
+            <h2>Mening ismim Faridun.</h2>
+            <div class="circle"></div>
+        </section>
+        <script type="text/javascript">
+            const pos = document.documentElement;
+            pos.addEventListener('mousemove', e => {
+                pos.style.setProperty('--x', e.clientX + 'px');
+                pos.style.setProperty('--y', e.clientY + 'px');
+            })
+
+        </script>
+    </body>
+</html>
